@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Difference",
+            "request": "launch",
+            "mainClass": "Difference",
+            "projectName": "Java File_242f5f8a"
+        },
+        {
+            "type": "java",
             "name": "Launch Solution",
             "request": "launch",
             "mainClass": "Solution",
