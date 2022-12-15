@@ -11,7 +11,7 @@ public class Addition {
 
         System.out.println("The addition of "+ a +" and "+ b +" = "+ c);
     } catch (Exception error) {
-        System.out.println("Error found =" + error);
+        System.out.println("Error Found { " + error + " }");
     }
   }
 }
