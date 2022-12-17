@@ -3,7 +3,7 @@
 import java.beans.Expression;
 import java.util.*;
 
-public class Conditanal {
+public class Conditons {
     public static void main(String args[]){
         try(Scanner sc = new Scanner(System.in)){
             System.out.println("Enter Your Age.");
