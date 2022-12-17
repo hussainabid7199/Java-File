@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Launch Conditanal",
+            "request": "launch",
+            "mainClass": "Conditanal",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch Addition",
             "request": "launch",
             "mainClass": "Addition",
