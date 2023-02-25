@@ -1,6 +1,5 @@
 // Program to take an integer input as Age and find out Adult or Not
 
-import java.beans.Expression;
 import java.util.*;
 
 public class Conditons {
