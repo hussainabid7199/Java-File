@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Dimondpattern",
+            "request": "launch",
+            "mainClass": "Dimondpattern",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Palindrompattern",
+            "request": "launch",
+            "mainClass": "Palindrompattern",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Numberseqpiramid",
             "request": "launch",
             "mainClass": "Numberseqpiramid",
