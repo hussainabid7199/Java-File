@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Butterflypattern",
+            "request": "launch",
+            "mainClass": "Butterflypattern",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Dimondpattern",
             "request": "launch",
             "mainClass": "Dimondpattern",
