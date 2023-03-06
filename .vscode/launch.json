@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Numberseqpiramid",
+            "request": "launch",
+            "mainClass": "Numberseqpiramid",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Rombous",
             "request": "launch",
             "mainClass": "Rombous",
