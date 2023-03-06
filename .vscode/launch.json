@@ -6,6 +6,48 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Rombous",
+            "request": "launch",
+            "mainClass": "Rombous",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Halfpiramidinverted180",
+            "request": "launch",
+            "mainClass": "Halfpiramidinverted180",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Hollowrectangle",
+            "request": "launch",
+            "mainClass": "Hollowrectangle",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Zeroonetriangle",
+            "request": "launch",
+            "mainClass": "Zeroonetriangle",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Floydstraingle",
+            "request": "launch",
+            "mainClass": "Floydstraingle",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Reversenumpiramid",
+            "request": "launch",
+            "mainClass": "Reversenumpiramid",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Launch Comparision",
             "request": "launch",
             "mainClass": "Comparision",
