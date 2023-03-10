@@ -6,6 +6,83 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fungreatest",
+            "request": "launch",
+            "mainClass": "Fungreatest",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Funsumoddnum",
+            "request": "launch",
+            "mainClass": "Funsumoddnum",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "FuncAvg",
+            "request": "launch",
+            "mainClass": "FuncAvg",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Funfibonacci",
+            "request": "launch",
+            "mainClass": "Funfibonacci",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Funprinttable",
+            "request": "launch",
+            "mainClass": "Funprinttable",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Funevenodd",
+            "request": "launch",
+            "mainClass": "Funevenodd",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Funprime",
+            "request": "launch",
+            "mainClass": "Funprime",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Factorial",
+            "request": "launch",
+            "mainClass": "Factorial",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Functionmulti",
+            "request": "launch",
+            "mainClass": "Functionmulti",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Functionsum",
+            "request": "launch",
+            "mainClass": "Functionsum",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Practifunction",
+            "request": "launch",
+            "mainClass": "Practifunction",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Pascaltraingle",
             "request": "launch",
             "mainClass": "Pascaltraingle",
