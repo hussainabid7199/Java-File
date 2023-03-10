@@ -6,6 +6,27 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Fundowhile",
+            "request": "launch",
+            "mainClass": "Fundowhile",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Funvote",
+            "request": "launch",
+            "mainClass": "Funvote",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Funradius",
+            "request": "launch",
+            "mainClass": "Funradius",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Fungreatest",
             "request": "launch",
             "mainClass": "Fungreatest",
