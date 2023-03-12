@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arrayname",
+            "request": "launch",
+            "mainClass": "Arrayname",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Arrayinpsearch",
+            "request": "launch",
+            "mainClass": "Arrayinpsearch",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Farray",
+            "request": "launch",
+            "mainClass": "Farray",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Array",
+            "request": "launch",
+            "mainClass": "Array",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Funcvalueofraisednum",
+            "request": "launch",
+            "mainClass": "Funcvalueofraisednum",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Fundowhile",
             "request": "launch",
             "mainClass": "Fundowhile",
