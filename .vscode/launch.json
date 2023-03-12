@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arraymaxmin",
+            "request": "launch",
+            "mainClass": "Arraymaxmin",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Arrayname",
             "request": "launch",
             "mainClass": "Arrayname",
