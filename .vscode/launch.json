@@ -6,6 +6,34 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Arrspiral",
+            "request": "launch",
+            "mainClass": "Arrspiral",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Matrixinsearch",
+            "request": "launch",
+            "mainClass": "Matrixinsearch",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Tdarraysimple",
+            "request": "launch",
+            "mainClass": "Tdarraysimple",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Ascending",
+            "request": "launch",
+            "mainClass": "Ascending",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Arraymaxmin",
             "request": "launch",
             "mainClass": "Arraymaxmin",
