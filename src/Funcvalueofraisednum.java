@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Funcvalueofraisednum {
-    public static void main(String[] args) {
+    public static void main(Stringlearn[] args) {
         try(Scanner sc = new Scanner(System.in)) {
             System.out.println("Enter two number to find is raised value, i.e. 10^2");
             int a, b;

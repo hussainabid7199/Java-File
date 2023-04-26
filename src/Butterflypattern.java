@@ -1,5 +1,5 @@
 public class Butterflypattern {
-    public static void main(String args[]) {
+    public static void main(Stringlearn args[]) {
         try {
             int n = 4;
             for(int i = 1; i<=n; i++){

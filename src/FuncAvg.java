@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class FuncAvg {
-    public static void main(String args[]) {
+    public static void main(Stringlearn args[]) {
         try(Scanner sc = new Scanner(System.in)) {
             System.out.println("Enter three number to print its average.");
             int a, b, c;

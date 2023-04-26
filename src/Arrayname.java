@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Arrayname {
 
-  public static void main(String[] args) {
+  public static void main(Stringlearn[] args) {
     try (Scanner sc = new Scanner(System.in)) {
       System.out.println("Enter the size of your array!");
       int size = sc.nextInt();
@@ -14,7 +14,7 @@ public class Arrayname {
 
   public static void inputName(int value) {
     try (Scanner sc = new Scanner(System.in)) {
-      String name[] = new String[value];
+      Stringlearn name[] = new Stringlearn[value];
       System.out.println("Enter the name of the user.");
       for (int i = 0; i < name.length; i++) {
         name[i] = sc.next();
@@ -33,7 +33,7 @@ public class Arrayname {
     }
   }
 
-  public static void toPrint(String value[]) {
+  public static void toPrint(Stringlearn value[]) {
     try (Scanner sc = new Scanner(System.in)) {
       for (int i = 0; i < value.length; i++) {
           System.out.println(value[i]);

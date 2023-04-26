@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Arrspiral {
-    public static void main(String[] args) {
+    public static void main(Stringlearn[] args) {
         try (Scanner sc = new Scanner(System.in)){
             int row = sc.nextInt();
             int col = sc.nextInt();
@@ -25,8 +25,6 @@ public class Arrspiral {
                 System.out.println();
             }
 
-
-            
         } catch (Exception e) {
             throw e;
         }

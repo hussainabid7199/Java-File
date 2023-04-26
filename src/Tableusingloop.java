@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Tableusingloop {
-    public static void main(String args[]) {
+    public static void main(Stringlearn args[]) {
         try(Scanner sc = new Scanner(System.in)){
             System.out.println("Enter the number to print its table.");
             int n = sc.nextInt();

@@ -2,7 +2,7 @@
 
 import java.util.Scanner;
 public class Loopquestion {
-    public static void main(String args[]) {
+    public static void main(Stringlearn args[]) {
         try(Scanner sc = new Scanner(System.in)){
         System.out.println("Enter the value of N");
         int n = sc.nextInt();

@@ -2,7 +2,7 @@
 import java.util.Scanner;
 
 public class Whileloop {
-    public static void main(String args[]) {
+    public static void main(Stringlearn args[]) {
         try(Scanner sc = new Scanner(System.in)){
             int i = 0;
             while (i < 10) {

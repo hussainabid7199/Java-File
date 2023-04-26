@@ -1,7 +1,7 @@
 // To find the area, perimeter and diagonal of a traingle.
 
 public class Rectangle {
-    public static void main(String args[]) {
+    public static void main(Stringlearn args[]) {
         int l, b, ar, per;
         double d;
         l = 20;

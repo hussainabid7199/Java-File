@@ -28,7 +28,7 @@
 
 public class Pascaltraingle
 {
-   public static void main(String[] args)
+   public static void main(Stringlearn[] args)
    {
       int row=5, i, j, space, num;
       for(i=0; i<row; i++)

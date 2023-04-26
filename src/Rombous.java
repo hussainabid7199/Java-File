@@ -1,5 +1,5 @@
 public class Rombous {
-   public static void main(String args[]){
+   public static void main(Stringlearn args[]){
     try {
         int n = 5;
         // int o = 9;

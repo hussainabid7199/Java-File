@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Functionmulti {
 
-  public static void main(String args[]) {
+  public static void main(Stringlearn args[]) {
     try (Scanner sc = new Scanner(System.in)) {
       int value1 = sc.nextInt();
       int value2 = sc.nextInt();

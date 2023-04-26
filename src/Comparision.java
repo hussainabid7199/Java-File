@@ -2,7 +2,7 @@
 
 import java.util.*;
 public class Comparision {
-    public static void main(String args[]){
+    public static void main(Stringlearn args[]){
         try(Scanner sc = new Scanner(System.in)){
             System.out.print("Enter your first number = ");
             int first = sc.nextInt();

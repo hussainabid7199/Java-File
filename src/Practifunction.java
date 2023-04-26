@@ -2,13 +2,13 @@ import java.util.Scanner;
 
 public class Practifunction{
 
-    public static void printMyName(String name) {
+    public static void printMyName(Stringlearn name) {
         System.out.println(name);
         return;
     }
-    public static void main(String args[]) {
+    public static void main(Stringlearn args[]) {
             try(Scanner sc = new Scanner(System.in)){
-                String name = sc.next();
+                Stringlearn name = sc.next();
                 printMyName(name);
             } catch (Exception e) {
                 throw e;

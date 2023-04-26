@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Funprinttable {
 
-  public static void main(String args[]) {
+  public static void main(Stringlearn args[]) {
     try (Scanner sc = new Scanner(System.in)) {
       System.out.println("Enter a number to print its table");
       int num = sc.nextInt();

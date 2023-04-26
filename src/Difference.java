@@ -1,5 +1,5 @@
 public class Difference {
-    public static void main(String args[]) {
+    public static void main(Stringlearn args[]) {
         int a, b, c, d, e;
         a = 30;
         b = 20;

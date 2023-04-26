@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Funfibonacci {
-    public static void main(String args[]) {
+    public static void main(Stringlearn args[]) {
         try (Scanner sc = new Scanner(System.in)){
             int num =  sc.nextInt();
             fibonacciSeries(num);

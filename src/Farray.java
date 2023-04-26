@@ -1,5 +1,5 @@
 public class Farray {
-    public static void main(String[] args) {
+    public static void main(Stringlearn[] args) {
             int marks[] = new int[3];
             marks[0] = 89;
             marks[1] = 78;

@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Arrayinpsearch {
 
-  public static void main(String[] args) {
+  public static void main(Stringlearn[] args) {
     try (Scanner sc = new Scanner(System.in)) {
       System.out.println("Enter the size of Array");
       int size = sc.nextInt();

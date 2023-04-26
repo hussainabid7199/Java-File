@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Funradius {
-    public static void main(String[] args) {
+    public static void main(Stringlearn[] args) {
         try (Scanner sc = new Scanner(System.in)){
             System.out.println("Enter the radius of circle");
             float radius = sc.nextFloat();

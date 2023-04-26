@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Stringlength",
+            "request": "launch",
+            "mainClass": "Stringlength",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Concatination",
+            "request": "launch",
+            "mainClass": "Concatination",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Stringlearn",
+            "request": "launch",
+            "mainClass": "Stringlearn",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "String",
+            "request": "launch",
+            "mainClass": "String",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
+            "name": "Arrayshortedunshorted",
+            "request": "launch",
+            "mainClass": "Arrayshortedunshorted",
+            "projectName": "Java File_e482b1fe"
+        },
+        {
+            "type": "java",
             "name": "Arrspiral",
             "request": "launch",
             "mainClass": "Arrspiral",

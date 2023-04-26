@@ -10,7 +10,7 @@
 import java.util.Scanner;
 
 public class Reversenumpiramid {
-    public static void main(String args[]) {
+    public static void main(Stringlearn args[]) {
         try (Scanner sc =new Scanner(System.in)){
         int n = 5;
         for(int i = 1; i<= n; i++){

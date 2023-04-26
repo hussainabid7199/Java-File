@@ -2,7 +2,7 @@ import java.util.Scanner;
 
 public class Arraymaxmin {
 
-  public static void main(String[] args) {
+  public static void main(Stringlearn[] args) {
     try (Scanner sc = new Scanner(System.in)) {
       System.out.println("Enter the length of the array.");
       int size = sc.nextInt();

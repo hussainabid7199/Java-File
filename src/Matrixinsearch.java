@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 public class Matrixinsearch {
-    public static void main(String[] args) {
+    public static void main(Stringlearn[] args) {
         try (Scanner sc = new Scanner(System.in)){
             int row = sc.nextInt();
             int col = sc.nextInt();

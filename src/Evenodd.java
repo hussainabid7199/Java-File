@@ -2,7 +2,7 @@
 
 import java.util.*;
 public class Evenodd {
-    public static void main(String args[]){
+    public static void main(Stringlearn args[]){
         try(Scanner sc = new Scanner(System.in)){
             System.out.print("Enter a number to find even or odd = ");
             int number = sc.nextInt();
